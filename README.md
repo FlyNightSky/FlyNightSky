@@ -2,34 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1000&width=435&lines=Hello+I+am+StreamScribes+I+am+a+programmer+that+started+coding+on+scratch+then+moved+on+to+web-development;I+have+over+1+year+of+knowledge+in+coding+and+over+2+years+in+scratch.)](https://git.io/typing-svg)
 
-<p class="line-1 anim-typewriter">Animation typewriter style using css steps()</p>
-
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-
-<style>
-/* Google Fonts */
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
-
-/* Global */
-html{
+        html{
   min-height: 100%;
   overflow: hidden;
 }
@@ -66,7 +43,10 @@ body{
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
-</style>
+      </style>
 
+      <p class="line-1 anim-typewriter">Animation typewriter style using css steps()</p>
+  </foreignObject>
+</svg>
 
 
