@@ -38,7 +38,7 @@
 
 - 🤖 Exploring Robotics and AI.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I work on my projects and help the community by contributing to projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:streamscribe@gmail.com?subject=Contact&body=Hello%20StreamScribe!)
 </div>
