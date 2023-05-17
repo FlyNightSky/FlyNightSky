@@ -18,7 +18,7 @@
 </div>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=FlyNightSky&style=flat-square&color=blue" alt=""/>
-    [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+    <img src="https://komarev.com/ghpvc/?username=natterstefan&style=flat-square&color=blue" alt=""/>
 
   </div>
 
