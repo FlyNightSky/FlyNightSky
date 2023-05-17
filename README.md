@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=FlyNightSky&style=flat-square&color=blue" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=FlyNightSky&style=flat-square&color=blue" align="center" alt=""/>
 
 <h1>
   Hey There
