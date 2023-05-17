@@ -3,7 +3,7 @@
        />
 </div>
 
-<div id="badges">
+<div align="center" id="badges">
  <a href="https://replit.com/@StreamScribe">
 <img src="https://img.shields.io/badge/Replit-orange?logo=replit&logoColor=white&style=for-the-badge" alt="Replit">
  </a>
