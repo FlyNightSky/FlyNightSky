@@ -36,11 +36,11 @@
   I am a Full Stack Developer from Trinidad & Tobago <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
   - :telescope: I’m 13 year old that is working towards beings a Enginner, Web-developer or a working a job in IT.  and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Robotics and AI.
+- 🤖 Exploring Robotics and AI.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=Gmail&logoColor=white)](mailto:streamscribe@gmail.com?subject=Contact&body=Hello%20StreamScribe!)
 </div>
 
 
