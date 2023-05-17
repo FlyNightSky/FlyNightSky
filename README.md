@@ -1,4 +1,4 @@
-<div id="header" align="center">s
+<div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/118761018?v=4" width="200"
        />
 </div>
