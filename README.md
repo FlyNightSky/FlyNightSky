@@ -18,7 +18,7 @@
 </div>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=FlyNightSky&style=flat-square&color=blue" alt=""/>
-    <img src="https://komarev.com/ghpvc/?codediodeio&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=codediodeio&style=flat-square&color=blue" alt=""/>
 
   </div>
 
