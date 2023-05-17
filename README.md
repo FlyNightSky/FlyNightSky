@@ -16,5 +16,10 @@
 <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-# Hi There I am StreamScribe 👋
+<img src="https://komarev.com/ghpvc/?username=FlyNightSky&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
