@@ -29,4 +29,10 @@
   <img src="https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/coding_languages.png?v=1619126283" width="600" height="300"/>
 </div>
 
+<div>
+  ---
+
+### :woman_technologist: About Me :
+</div>
+
 
