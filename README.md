@@ -57,8 +57,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://image.pngaaa.com/792/8796792-middle.png" title="Astro" **alt="Astro.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://play-lh.googleusercontent.com/AmzHCh6UEelYfh9AfWXh1WIOC0Z_Z69N9bTvEi-hbRhDe7XL04xuuQfvQXCKLHSHcgVk" title="Scratch" **alt="Scratch" width="40" height="40"/>
+
+  <img src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fastro&psig=AOvVaw35npOB5Dh3-yn4mnMiRh1A&ust=1684372873263000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD18oiY-_4CFQAAAAAdAAAAABAN" title="Astro" alt="Astro.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" title="Supabase" **alt="Supabase" width="40" height="40"/>
 
 
