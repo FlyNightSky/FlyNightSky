@@ -34,7 +34,7 @@
 
 ### </> About Me :
   I am a Full Stack Developer from Trinidad & Tobago <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-  - :telescope: I’m 13 year old that is working towards beings a Enginner, Web-developer or a working a job in IT.  and contributing to frontend and backend for building web applications.
+  - :telescope: I’m 13 year old that is working towards beings a Enginner, Web-developer or a working a job in IT.  and contributing to frontend and backend for building web applications. I am also the creator of cognet network
 
 - 🤖 Exploring Robotics and AI.
 
