@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/scratch-yellow?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
   </a>
   
-  <a href="#">
+  <a href="https://twitter.com/CognetNet">
 <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
