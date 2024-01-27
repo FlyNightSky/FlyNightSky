@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" style="padding: 20px;">
   <img src="https://avatars.githubusercontent.com/u/118761018?v=4" width="200"
        />
 
@@ -11,8 +11,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyNightSky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
   ![StreamScribes GitHub stats](https://github-readme-stats.vercel.app/api?username=FlyNightSky&show_icons=true&theme=dracula)
 
-<style>
-  .fun{
-    padding: 70px ;
-  }
-</style>
+
