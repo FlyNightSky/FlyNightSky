@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/118761018?v=4" width="200"
        />
 
-  <div style="padding:5px;">
+  <div style="padding:50px;">
   Just a Random c++ programmer 
 </div>
 </div>
