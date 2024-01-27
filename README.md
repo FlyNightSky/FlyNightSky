@@ -7,7 +7,14 @@
 </div>
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlyNightSky&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlyNightSky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-  ![StreamScribes GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlyNightSky&show_icons=true&theme=dracula)
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=FlyNightSky&theme=dark&background=000000" alt="GitHub Streak" />
+  </a><br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlyNightSky&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=FlyNightSky&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
+
