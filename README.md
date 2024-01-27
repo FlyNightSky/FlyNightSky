@@ -3,8 +3,9 @@
        />
 </div>
 
-
-Just a Random c++ programmer 
+<div style="text-align: center;">
+  Just a Random c++ programmer 
+</div>
 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlyNightSky&theme=dark&background=000000)](https://git.io/streak-stats)<br>
