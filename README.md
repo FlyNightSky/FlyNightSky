@@ -2,7 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/118761018?v=4" width="200" alt="Profile Image" />
 
   <div id="fun">
-    <p>Just a Random C++ Programmer</p>
+    <p>Hi I am StreamScribe!</p>
+    <p>I make projects that challenge and interest me.</p>
   </div>
 </div>
 
